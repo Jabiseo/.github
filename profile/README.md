@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/9aa37224-5e14-4590-b186-2b965bb87ad1)
+
+
+
+
 # 자비서<img src="https://github.com/user-attachments/assets/99c2707e-1034-4b5e-89a2-ed9d648bc883" align=left width=100>
 
 나만을 위한 자격증 스마트 학습 비서
@@ -9,6 +14,7 @@
 <em>소프트웨어 마에스트로 15기에서 진행한 프로젝트입니다</em>
 
 ## Overview
+![overview](https://github.com/user-attachments/assets/4462f81e-b48c-45fc-858b-d09fe84f1852)
 
 
 ## Developers
