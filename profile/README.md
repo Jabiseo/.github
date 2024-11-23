@@ -14,7 +14,7 @@
 <em>소프트웨어 마에스트로 15기에서 진행한 프로젝트입니다</em>
 
 ## Overview
-![overview](https://github.com/user-attachments/assets/4462f81e-b48c-45fc-858b-d09fe84f1852)
+<img width="1920" alt="자비서 (1)" src="https://github.com/user-attachments/assets/16b47c7d-ef49-432b-a7c7-8f84470583ac">
 
 
 ## Developers
